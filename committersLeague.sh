@@ -1,4 +1,9 @@
 #!/bin/bash
+# Copyleft (CC) 2025 MikelM <mmerino@bilbomatica.es>
+# This file is free software; The author gives
+# unlimited permission to copy and/or distribute it, with or without
+# modifications, as long as this notice is preserved.
+
 
 show_title() {
     cat << "EOF"
